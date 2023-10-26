@@ -6,7 +6,7 @@ Project compiled by typing make
 makeInput executable:
 * takes an integer parameter which will indicate how much numbers the input file will have
 * creates three txt files with the number of numbers indicated by the integer parameter
-* each file will containsequences of numbers that the quicksort strategies will be analyzing, one will have the
+* each file will contain sequences of numbers that the quicksort strategies will be analyzing, one will have the
   numbers already sorted, the other will have the reverse sorted, and the last will have them randomized
 
 quicksort executable:
