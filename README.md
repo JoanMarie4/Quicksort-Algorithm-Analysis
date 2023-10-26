@@ -14,3 +14,5 @@ quicksort executable:
 * second parameter is the name of the file the output will be outputted to
 * executable runs the four different quicksotyr strategies and outputs the time it took to sort the numbers and
   the number of swaps it took
+
+Input file contains all the input txt files used in the analysis
